@@ -1,5 +1,4 @@
-# idea-app-laravel-vue
-En que estas pensando?
+# Idea app Laravel & VueJS
 
 ### Screenshot
 

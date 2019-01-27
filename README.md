@@ -4,17 +4,12 @@
 
 [![Screenshot-9.jpg](https://i.postimg.cc/C1vVrn1N/Screenshot-9.jpg)](https://postimg.cc/5YFG608Y)
 
-
 ### Instalation 
 
 #### Clone repository 
 
-```
-		
-		git clone https://github.com/Adesings/idea-app-laravel-vue.git
-		
-```
-
+`git clone https://github.com/Adesings/idea-app-laravel-vue.git`
+			
 #### Make a copy of file .env.example 
 
 #### to start xampp or laragon, the one that you use by default
@@ -25,12 +20,12 @@
 
 ```
 		
-        DB_CONNECTION=mysql
-        DB_HOST=127.0.0.1
-        DB_PORT=3306
-        DB_DATABASE=[database name]
-        DB_USERNAME=[username]
-        DB_PASSWORD=[your password]
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=[database name]
+DB_USERNAME=[username]
+DB_PASSWORD=[your password]
 		
 ```
 
@@ -38,4 +33,4 @@
 
 #### The next step is to run the command: composer install, this command installed dependencies of composer and create a folder called vendor in the project.
 
-### Finished!
+#### Finished!

@@ -29,8 +29,28 @@ DB_PASSWORD=[your password]
 		
 ```
 
-#### Then run the command: npm install, this will installed dependencies of node, and create a folder called node_modules in the project.
+#### Then run the command: 
 
-#### The next step is to run the command: composer install, this command installed dependencies of composer and create a folder called vendor in the project.
+`npm install` 
+
+#### this will installed dependencies of node, and create a folder called node_modules in the project.
+
+#### The next step is to run the command: 
+
+`composer install`
+
+#### this command installed dependencies of composer and create a folder called vendor in the project.
+
+#### run migrations, with the command:
+
+`php artisan migrate`
+
+#### running seeders 
+
+`php artisan db:seed`
+
+#### run server
+
+`php artisan serve`
 
 #### Finished!
